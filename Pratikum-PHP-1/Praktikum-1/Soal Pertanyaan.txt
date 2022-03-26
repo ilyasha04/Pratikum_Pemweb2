@@ -1,0 +1,9 @@
+3.5 Pertanyaan ?
+1. Apa bedanya variabel user dengan variable system ?
+2. Apa persamaan variabel system dengan variabel konstan ?
+
+Jelaskan apa fungsi sort(array), arsort(array) !!
+Jelaskan apa fungsi array_pop($array)?
+Jelaskan apa fungsi array_pop($array)?
+Jelaskan apa fungsi array_shift($array)?
+Jelaskan apa fungsi array_shift($array)?
